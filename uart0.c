@@ -1,6 +1,6 @@
 #include <stdint.h>
 #include "lpc17xx.h"
-#include "setup.h"
+#include "uart0.h"
 
 int no_of_bytes = 0;
 int first_byte = 0;
